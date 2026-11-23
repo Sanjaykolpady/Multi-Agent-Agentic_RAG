@@ -1,0 +1,6 @@
+pyproject.toml
+complianceqapipeline.egg-info/PKG-INFO
+complianceqapipeline.egg-info/SOURCES.txt
+complianceqapipeline.egg-info/dependency_links.txt
+complianceqapipeline.egg-info/requires.txt
+complianceqapipeline.egg-info/top_level.txt
